@@ -1,7 +1,7 @@
 
 let 快速订阅访问入口 = ['auto'];
 let addresses = [];
-let addressesapi = ['https://cf-wenjian.pages.dev/ip.txt?token=0923'];
+let addressesapi = 'https://cf-wenjian.pages.dev/ip.txt?token=0923';
 
 let addressesnotls = [];
 let addressesnotlsapi = [];
